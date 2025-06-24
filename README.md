@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Italic&size=15&duration=4000&pause=1000&width=435&lines=System.out.println("Always+aspire+for+beauty")+;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Always+aspire+for+beauty%22);)](https://git.io/typing-svg)
 # Hi there 👋 I'm Seif Alaa
 
 🎓 Business Informatics student at the German University in Cairo (GUC) with a deep interest in bridging the gap between technology and business. I love turning data into insights, code into applications, and learning into action.
