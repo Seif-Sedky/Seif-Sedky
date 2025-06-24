@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+aspire+for+beauty)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&vCenter=true&width=435&lines=Always+aspire+for+beauty)](https://git.io/typing-svg)
 
 # Hi there 👋 I'm Seif Alaa
 
