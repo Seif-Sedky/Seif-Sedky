@@ -1,4 +1,4 @@
-![Typing badge](https://img.shields.io/badge/-Always%20building,%20always%20learning-000000?style=for-the-badge&logo=github&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always aspire for beauty)](https://git.io/typing-svg)
 
 
 # Hi there 👋 I'm Seif Alaa
@@ -27,4 +27,4 @@ Java · Python (Basic) · C# · JavaFX · ASP.NET · Tableau · Power BI · ERD 
 
 ---
 
-_“Always aspire for beauty”_
+_“Learning never ends”_
