@@ -22,6 +22,8 @@ Java · Python (Basic) · C# · JavaFX · ASP.NET · Tableau · Power BI · ERD 
 💬 **Let's Connect:**
 - 📧 [seif.alaa1231@gmail.com](mailto:seif.alaa1231@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seifAlaa02)
+
+🛠️ **Check my work:**
 - 📝 [CV](https://drive.google.com/drive/folders/1qIJBCPEx89ZLRZacu8VLLqbhvzawZoAE?dmr=1&ec=wgc-drive-hero-goto)
 ---
 
