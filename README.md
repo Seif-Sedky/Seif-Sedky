@@ -1,3 +1,6 @@
+![Typing badge](https://img.shields.io/badge/-Always%20building,%20always%20learning-000000?style=for-the-badge&logo=github&logoColor=white)
+
+
 # Hi there 👋 I'm Seif Alaa
 
 🎓 Business Informatics student at the German University in Cairo (GUC) with a deep interest in bridging the gap between technology and business. I love turning data into insights, code into applications, and learning into action.
