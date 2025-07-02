@@ -25,7 +25,7 @@ Java · Python (Basic) · C# · JavaFX · ASP.NET · Tableau · Power BI · ERD 
 💬 **Let's Connect:**
 - 📧 [seif.alaa1231@gmail.com](mailto:seif.alaa1231@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seifAlaa02)
-
+- 🧠 [LeetCode](https://leetcode.com/u/4npTlcgx2e/)
 ---
 
 _“Learning never ends”_
