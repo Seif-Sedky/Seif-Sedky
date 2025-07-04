@@ -14,7 +14,7 @@ Java · Python (Basic) · C# · JavaFX · ASP.NET · Tableau · Power BI · ERD 
 
 💡 **Projects I've Built:**
 - 🎯 [**The Accounting Friend**](https://github.com/seif-sedky/theAccountingFriend) – Java desktop app to help students understand accounting logic step-by-step using a clean GUI and MVC structure.
-- ♠️ [**NeoJackaroo**]([https://github.com/ziadelnaggar01/neojackaroo](https://github.com/Seif-Sedky/NeoJackaroo)) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
+- ♠️ [**NeoJackaroo**](https://github.com/Seif-Sedky/NeoJackaroo) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
 
 📚 **Courses & Learning:**
 - Supervised ML, Advanced Learning Algorithms, and Unsupervised Learning – by Andrew Ng (Coursera)
