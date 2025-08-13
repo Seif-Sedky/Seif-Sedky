@@ -10,7 +10,7 @@
 - Building polished, useful apps from the ground up
 
 🛠️ **Languages & Tools:**
-Java · Python (Basic) · C# · JavaFX · ASP.NET · Tableau · Power BI · ERD · BPMN · SAP ES · RapidMiner
+Java · Python · C# · HTML · CSS · JS · ASP.NET · Tableau · Power BI · ERD · BPMN · SAP ES · RapidMiner
 
 💡 **Projects I've Built:**
 - 🎯 [**The Accounting Friend**](https://github.com/seif-sedky/theAccountingFriend) – Java desktop app to help students understand accounting logic step-by-step using a clean GUI and MVC structure.
