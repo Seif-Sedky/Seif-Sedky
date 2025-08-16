@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=700&separator=%3C&lines=System.out.println(%22Always+aspire+for+beauty%22);)](https://git.io/typing-svg)
-# Hi there 👋 I'm Seif Alaa Sedky😊
+# Hi there 👋
+# I'm Seif Alaa Sedky 😊
 
 🎓 Business Informatics student at the German University in Cairo (GUC) with a deep interest in bridging the gap between technology and business. I love turning data into insights, code into applications, and learning into action.
 
