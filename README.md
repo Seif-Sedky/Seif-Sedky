@@ -15,7 +15,7 @@ Java · Python · C# · HTML · CSS · JS · Git · SQL · Tableau · Power BI �
 - ♠️ [**NeoJackaroo**](https://github.com/Seif-Sedky/NeoJackaroo) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
 - 🎯 [**The Accounting Friend**](https://github.com/seif-sedky/theAccountingFriend) – Java desktop app to help students understand accounting logic step-by-step using a clean GUI and MVC structure.
 
-💡 **Mini-Websites I've Built (_Deployed on Github Pages_):**
+💡 **Mini-Websites I've Built (_*Deployed on Github Pages_):**
 - 🕹️ [**Git Hack-Tac-Toe**](https://github.com/Seif-Sedky/git-hack-toe) – A Tic-Tac-Toe game with a calming theme.  
 - 📘 [**Discrete++ Home Page**](https://github.com/Seif-Sedky/discrete-math-home-page) – An aesthetic homepage for a Discrete Math website.  
 - ✍️ [**Discrete++ Sign-Up Page**](https://github.com/Seif-Sedky/signup-page) – A clean and functional user registration page with form validation for a discrete math website.  
