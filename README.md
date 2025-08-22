@@ -9,7 +9,7 @@
 - Building polished, useful apps from the ground up
 
 🛠️ **Languages & Tools:**
-Java · Python · C# · HTML · CSS · JS · Git · SQL · Tableau · Power BI · GIS · BPMN · SAP ES · Altair
+Java · Python · C# · HTML · CSS · JS · Git · SQL · MongoDB · Redis · Neo4j · Tableau · Power BI · GIS · BPMN · SAP ES · Altair
 
 💡 **Projects I've Built:**
 - ♠️ [**NeoJackaroo**](https://github.com/Seif-Sedky/NeoJackaroo) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
