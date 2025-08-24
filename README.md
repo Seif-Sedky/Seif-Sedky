@@ -25,7 +25,7 @@ Java · Python · C# · HTML · CSS · JS · Git · SQL · MongoDB · Redis · N
 - ✅ [**Done-zo**](https://github.com/Seif-Sedky/to-do-list) – A simple, interactive and aesthetic to-do-list to track your daily activities.  
 - 📚 [**My Library**](https://github.com/Seif-Sedky/my-library) – A personal book library web app to manage and track your books.  
 - 🎨 [**Etch-A-Sketch**](https://github.com/Seif-Sedky/etch-a-sketch) – A browser-based drawing board inspired by the classic Etch-A-Sketch toy.
-- 🌐 [**Personal Portfolio Prototype**](https://seif-sedky.github.io/responsive-homepage/) - A hand-coded portfolio site built with just HTML5 and CSS3 — no external libraries or frameworks.
+- 🌐 [**Personal Portfolio Prototype**](https://seif-sedky.github.io/responsive-homepage/) - A hand-coded portfolio prototype built with HTML5 and CSS3, no external libraries.
 - 🧮 [**Calculator**](https://github.com/Seif-Sedky/calculator) – A responsive and functional web calculator for basic arithmetic operations.  
 
 💼 **Experience:**
