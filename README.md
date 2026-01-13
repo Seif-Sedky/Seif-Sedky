@@ -12,9 +12,10 @@
 Java · Python · C# · HTML · CSS · JS · Git · SQL · MongoDB · Redis · Neo4j · Tableau · Power BI · GIS · BPMN · SAP ES · Altair
 
 💡 **Projects I've Built:**
+- 🎓 [**University HR System**](https://github.com/Seif-Sedky/HR-System) – Developed a robust university management system streamlining HR, academic, and administrative workflows using ASP.NET Core and SQL Server.
 - ♠️ [**NeoJackaroo**](https://github.com/Seif-Sedky/NeoJackaroo) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
 - 🎯 [**The Accounting Friend**](https://github.com/seif-sedky/theAccountingFriend) – Java desktop app to help students understand accounting logic step-by-step using a clean GUI and MVC structure.
-
+- 
 💡 **Mini-Websites I've Built (_*Deployed on Github Pages_):**
 - 🕹️ [**Git Hack-Tac-Toe**](https://github.com/Seif-Sedky/git-hack-toe) – A Tic-Tac-Toe game with a calming theme.  
 - 📘 [**Discrete++ Home Page**](https://github.com/Seif-Sedky/discrete-math-home-page) – An aesthetic homepage for a Discrete Math website.  
