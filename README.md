@@ -4,9 +4,8 @@
 🎓 Business Informatics student at the German University in Cairo (GUC) with a deep interest in bridging the gap between technology and business. I love turning data into insights, code into applications, and learning into action.
 
 🚀 **What I'm focused on:**
+- Building meaningful & impactful data solutions
 - Data Science to solve intriguing problems 
-- Full-stack development 
-- Building polished, useful apps from the ground up
 
 🛠️ **Languages & Tools:**
 Java · Python · C# · HTML · CSS · JS · Git · SQL · MongoDB · Redis · Neo4j · Tableau · Power BI · GIS · BPMN · SAP ES · Altair
