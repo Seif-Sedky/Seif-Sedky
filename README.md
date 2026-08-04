@@ -11,6 +11,9 @@
 Java · Python · C# · HTML · CSS · JS · Git · SQL · MongoDB · Redis · Neo4j · Tableau · Power BI · GIS · BPMN · SAP ES · Altair
 
 💡 **Projects I've Built:**
+- 🌌 [**GlowBox Engine Visualizer**](https://github.com/Seif-Sedky/GlowBox-Engine-Visualizer) – An interactive educational platform that visualizes database index structures and storage engines in real time, featuring B+ Trees, Extendible Hashing, R-Trees, LSM Trees, Skip Lists, and Inverted Indexes.
+- 💾 [**GlowBox Engine**](https://github.com/Seif-Sedky/GlowBox-Engine) – Built a disk-based educational database engine from scratch in Java featuring a buffer pool, Linear Hash indexing, cost-based query optimization, SQL parsing, and a persistent storage layer with heap files.
+- 🎓 [**CareerLoop**](https://github.com/Seif-Sedky/CareerLoop) – An AI-Agents-powered academic and career advisor that integrates university portals with a Flutter app and FastAPI/LangChain backend to provide personalized academic guidance, opportunity matching, resume analysis, and career assistance.
 - 🎓 [**University HR System**](https://github.com/Seif-Sedky/HR-System) – Developed a robust university management system streamlining HR, academic, and administrative workflows using ASP.NET Core and SQL Server.
 - ♠️ [**NeoJackaroo**](https://github.com/Seif-Sedky/NeoJackaroo) – A single-player adaptation of the Jackaroo board game with AI opponents and custom rules in JavaFX.
 - 🎯 [**The Accounting Friend**](https://github.com/seif-sedky/theAccountingFriend) – Java desktop app to help students understand accounting logic step-by-step using a clean GUI and MVC structure.
